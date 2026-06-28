@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/priyamkakadiya153/leetcode/tree/master/0128-longest-consecutive-sequence) |
+| [0704-binary-search](https://github.com/priyamkakadiya153/leetcode/tree/master/0704-binary-search) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/priyamkakadiya153/leetcode/tree/master/0974-subarray-sums-divisible-by-k) |
 | [2966-divide-array-into-arrays-with-max-difference](https://github.com/priyamkakadiya153/leetcode/tree/master/2966-divide-array-into-arrays-with-max-difference) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/priyamkakadiya153/leetcode/tree/master/3737-count-subarrays-with-majority-element-i) |
@@ -69,4 +70,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/priyamkakadiya153/leetcode/tree/master/0128-longest-consecutive-sequence) |
+## Binary Search
+|  |
+| ------- |
+| [0704-binary-search](https://github.com/priyamkakadiya153/leetcode/tree/master/0704-binary-search) |
 <!---LeetCode Topics End-->
