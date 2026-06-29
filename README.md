@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/priyamkakadiya153/leetcode/tree/master/0001-two-sum) |
+| [0053-maximum-subarray](https://github.com/priyamkakadiya153/leetcode/tree/master/0053-maximum-subarray) |
 | [0128-longest-consecutive-sequence](https://github.com/priyamkakadiya153/leetcode/tree/master/0128-longest-consecutive-sequence) |
 | [0169-majority-element](https://github.com/priyamkakadiya153/leetcode/tree/master/0169-majority-element) |
 | [0496-next-greater-element-i](https://github.com/priyamkakadiya153/leetcode/tree/master/0496-next-greater-element-i) |
@@ -42,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0053-maximum-subarray](https://github.com/priyamkakadiya153/leetcode/tree/master/0053-maximum-subarray) |
 | [0509-fibonacci-number](https://github.com/priyamkakadiya153/leetcode/tree/master/0509-fibonacci-number) |
 ## Memoization
 |  |
@@ -59,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Divide and Conquer
 |  |
 | ------- |
+| [0053-maximum-subarray](https://github.com/priyamkakadiya153/leetcode/tree/master/0053-maximum-subarray) |
 | [0169-majority-element](https://github.com/priyamkakadiya153/leetcode/tree/master/0169-majority-element) |
 | [0912-sort-an-array](https://github.com/priyamkakadiya153/leetcode/tree/master/0912-sort-an-array) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/priyamkakadiya153/leetcode/tree/master/3737-count-subarrays-with-majority-element-i) |
