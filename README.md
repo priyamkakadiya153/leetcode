@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3591-check-if-any-element-has-prime-frequency](https://github.com/priyamkakadiya153/leetcode/tree/master/3591-check-if-any-element-has-prime-frequency) |
 | [3618-split-array-by-prime-indices](https://github.com/priyamkakadiya153/leetcode/tree/master/3618-split-array-by-prime-indices) |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/priyamkakadiya153/leetcode/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
+| [3620-network-recovery-pathways](https://github.com/priyamkakadiya153/leetcode/tree/master/3620-network-recovery-pathways) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/priyamkakadiya153/leetcode/tree/master/3737-count-subarrays-with-majority-element-i) |
 ## Greedy
 |  |
@@ -58,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0322-coin-change](https://github.com/priyamkakadiya153/leetcode/tree/master/0322-coin-change) |
 | [0509-fibonacci-number](https://github.com/priyamkakadiya153/leetcode/tree/master/0509-fibonacci-number) |
 | [0773-sliding-puzzle](https://github.com/priyamkakadiya153/leetcode/tree/master/0773-sliding-puzzle) |
+| [3620-network-recovery-pathways](https://github.com/priyamkakadiya153/leetcode/tree/master/3620-network-recovery-pathways) |
 ## Memoization
 |  |
 | ------- |
@@ -109,6 +111,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0704-binary-search](https://github.com/priyamkakadiya153/leetcode/tree/master/0704-binary-search) |
+| [3620-network-recovery-pathways](https://github.com/priyamkakadiya153/leetcode/tree/master/3620-network-recovery-pathways) |
 ## Number Theory
 |  |
 | ------- |
@@ -119,6 +122,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0912-sort-an-array](https://github.com/priyamkakadiya153/leetcode/tree/master/0912-sort-an-array) |
 | [1383-maximum-performance-of-a-team](https://github.com/priyamkakadiya153/leetcode/tree/master/1383-maximum-performance-of-a-team) |
+| [3620-network-recovery-pathways](https://github.com/priyamkakadiya153/leetcode/tree/master/3620-network-recovery-pathways) |
 ## Bucket Sort
 |  |
 | ------- |
@@ -177,4 +181,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/priyamkakadiya153/leetcode/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
+## Graph Theory
+|  |
+| ------- |
+| [3620-network-recovery-pathways](https://github.com/priyamkakadiya153/leetcode/tree/master/3620-network-recovery-pathways) |
+## Topological Sort
+|  |
+| ------- |
+| [3620-network-recovery-pathways](https://github.com/priyamkakadiya153/leetcode/tree/master/3620-network-recovery-pathways) |
+## Shortest Path
+|  |
+| ------- |
+| [3620-network-recovery-pathways](https://github.com/priyamkakadiya153/leetcode/tree/master/3620-network-recovery-pathways) |
 <!---LeetCode Topics End-->
