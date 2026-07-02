@@ -42,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0002-add-two-numbers](https://github.com/priyamkakadiya153/leetcode/tree/master/0002-add-two-numbers) |
 | [0509-fibonacci-number](https://github.com/priyamkakadiya153/leetcode/tree/master/0509-fibonacci-number) |
+| [3405-count-the-number-of-arrays-with-k-matching-adjacent-elements](https://github.com/priyamkakadiya153/leetcode/tree/master/3405-count-the-number-of-arrays-with-k-matching-adjacent-elements) |
 | [3591-check-if-any-element-has-prime-frequency](https://github.com/priyamkakadiya153/leetcode/tree/master/3591-check-if-any-element-has-prime-frequency) |
 | [3618-split-array-by-prime-indices](https://github.com/priyamkakadiya153/leetcode/tree/master/3618-split-array-by-prime-indices) |
 ## Recursion
@@ -164,4 +165,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0773-sliding-puzzle](https://github.com/priyamkakadiya153/leetcode/tree/master/0773-sliding-puzzle) |
+## Combinatorics
+|  |
+| ------- |
+| [3405-count-the-number-of-arrays-with-k-matching-adjacent-elements](https://github.com/priyamkakadiya153/leetcode/tree/master/3405-count-the-number-of-arrays-with-k-matching-adjacent-elements) |
 <!---LeetCode Topics End-->
