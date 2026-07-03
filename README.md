@@ -47,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3405-count-the-number-of-arrays-with-k-matching-adjacent-elements](https://github.com/priyamkakadiya153/leetcode/tree/master/3405-count-the-number-of-arrays-with-k-matching-adjacent-elements) |
 | [3591-check-if-any-element-has-prime-frequency](https://github.com/priyamkakadiya153/leetcode/tree/master/3591-check-if-any-element-has-prime-frequency) |
 | [3618-split-array-by-prime-indices](https://github.com/priyamkakadiya153/leetcode/tree/master/3618-split-array-by-prime-indices) |
+| [3621-number-of-integers-with-popcount-depth-equal-to-k-i](https://github.com/priyamkakadiya153/leetcode/tree/master/3621-number-of-integers-with-popcount-depth-equal-to-k-i) |
 ## Recursion
 |  |
 | ------- |
@@ -60,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0509-fibonacci-number](https://github.com/priyamkakadiya153/leetcode/tree/master/0509-fibonacci-number) |
 | [0773-sliding-puzzle](https://github.com/priyamkakadiya153/leetcode/tree/master/0773-sliding-puzzle) |
 | [3620-network-recovery-pathways](https://github.com/priyamkakadiya153/leetcode/tree/master/3620-network-recovery-pathways) |
+| [3621-number-of-integers-with-popcount-depth-equal-to-k-i](https://github.com/priyamkakadiya153/leetcode/tree/master/3621-number-of-integers-with-popcount-depth-equal-to-k-i) |
 ## Memoization
 |  |
 | ------- |
@@ -177,6 +179,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3405-count-the-number-of-arrays-with-k-matching-adjacent-elements](https://github.com/priyamkakadiya153/leetcode/tree/master/3405-count-the-number-of-arrays-with-k-matching-adjacent-elements) |
+| [3621-number-of-integers-with-popcount-depth-equal-to-k-i](https://github.com/priyamkakadiya153/leetcode/tree/master/3621-number-of-integers-with-popcount-depth-equal-to-k-i) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -193,4 +196,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3620-network-recovery-pathways](https://github.com/priyamkakadiya153/leetcode/tree/master/3620-network-recovery-pathways) |
+## Bit Manipulation
+|  |
+| ------- |
+| [3621-number-of-integers-with-popcount-depth-equal-to-k-i](https://github.com/priyamkakadiya153/leetcode/tree/master/3621-number-of-integers-with-popcount-depth-equal-to-k-i) |
 <!---LeetCode Topics End-->
