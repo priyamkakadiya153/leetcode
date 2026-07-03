@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0773-sliding-puzzle](https://github.com/priyamkakadiya153/leetcode/tree/master/0773-sliding-puzzle) |
 | [0912-sort-an-array](https://github.com/priyamkakadiya153/leetcode/tree/master/0912-sort-an-array) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/priyamkakadiya153/leetcode/tree/master/0974-subarray-sums-divisible-by-k) |
+| [1046-last-stone-weight](https://github.com/priyamkakadiya153/leetcode/tree/master/1046-last-stone-weight) |
 | [1383-maximum-performance-of-a-team](https://github.com/priyamkakadiya153/leetcode/tree/master/1383-maximum-performance-of-a-team) |
 | [2966-divide-array-into-arrays-with-max-difference](https://github.com/priyamkakadiya153/leetcode/tree/master/2966-divide-array-into-arrays-with-max-difference) |
 | [3591-check-if-any-element-has-prime-frequency](https://github.com/priyamkakadiya153/leetcode/tree/master/3591-check-if-any-element-has-prime-frequency) |
@@ -131,6 +132,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/priyamkakadiya153/leetcode/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0912-sort-an-array](https://github.com/priyamkakadiya153/leetcode/tree/master/0912-sort-an-array) |
+| [1046-last-stone-weight](https://github.com/priyamkakadiya153/leetcode/tree/master/1046-last-stone-weight) |
 | [1383-maximum-performance-of-a-team](https://github.com/priyamkakadiya153/leetcode/tree/master/1383-maximum-performance-of-a-team) |
 | [3620-network-recovery-pathways](https://github.com/priyamkakadiya153/leetcode/tree/master/3620-network-recovery-pathways) |
 ## Bucket Sort
