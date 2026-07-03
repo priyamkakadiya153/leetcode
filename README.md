@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3618-split-array-by-prime-indices](https://github.com/priyamkakadiya153/leetcode/tree/master/3618-split-array-by-prime-indices) |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/priyamkakadiya153/leetcode/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 | [3620-network-recovery-pathways](https://github.com/priyamkakadiya153/leetcode/tree/master/3620-network-recovery-pathways) |
+| [3623-count-number-of-trapezoids-i](https://github.com/priyamkakadiya153/leetcode/tree/master/3623-count-number-of-trapezoids-i) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/priyamkakadiya153/leetcode/tree/master/3737-count-subarrays-with-majority-element-i) |
 ## Greedy
 |  |
@@ -49,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3618-split-array-by-prime-indices](https://github.com/priyamkakadiya153/leetcode/tree/master/3618-split-array-by-prime-indices) |
 | [3621-number-of-integers-with-popcount-depth-equal-to-k-i](https://github.com/priyamkakadiya153/leetcode/tree/master/3621-number-of-integers-with-popcount-depth-equal-to-k-i) |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/priyamkakadiya153/leetcode/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
+| [3623-count-number-of-trapezoids-i](https://github.com/priyamkakadiya153/leetcode/tree/master/3623-count-number-of-trapezoids-i) |
 ## Recursion
 |  |
 | ------- |
@@ -77,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0496-next-greater-element-i](https://github.com/priyamkakadiya153/leetcode/tree/master/0496-next-greater-element-i) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/priyamkakadiya153/leetcode/tree/master/0974-subarray-sums-divisible-by-k) |
 | [3591-check-if-any-element-has-prime-frequency](https://github.com/priyamkakadiya153/leetcode/tree/master/3591-check-if-any-element-has-prime-frequency) |
+| [3623-count-number-of-trapezoids-i](https://github.com/priyamkakadiya153/leetcode/tree/master/3623-count-number-of-trapezoids-i) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/priyamkakadiya153/leetcode/tree/master/3737-count-subarrays-with-majority-element-i) |
 ## Divide and Conquer
 |  |
@@ -201,4 +204,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3621-number-of-integers-with-popcount-depth-equal-to-k-i](https://github.com/priyamkakadiya153/leetcode/tree/master/3621-number-of-integers-with-popcount-depth-equal-to-k-i) |
+## Geometry
+|  |
+| ------- |
+| [3623-count-number-of-trapezoids-i](https://github.com/priyamkakadiya153/leetcode/tree/master/3623-count-number-of-trapezoids-i) |
 <!---LeetCode Topics End-->
