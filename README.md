@@ -48,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3591-check-if-any-element-has-prime-frequency](https://github.com/priyamkakadiya153/leetcode/tree/master/3591-check-if-any-element-has-prime-frequency) |
 | [3618-split-array-by-prime-indices](https://github.com/priyamkakadiya153/leetcode/tree/master/3618-split-array-by-prime-indices) |
 | [3621-number-of-integers-with-popcount-depth-equal-to-k-i](https://github.com/priyamkakadiya153/leetcode/tree/master/3621-number-of-integers-with-popcount-depth-equal-to-k-i) |
+| [3622-check-divisibility-by-digit-sum-and-product](https://github.com/priyamkakadiya153/leetcode/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
 ## Recursion
 |  |
 | ------- |
