@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3620-network-recovery-pathways](https://github.com/priyamkakadiya153/leetcode/tree/master/3620-network-recovery-pathways) |
 | [3623-count-number-of-trapezoids-i](https://github.com/priyamkakadiya153/leetcode/tree/master/3623-count-number-of-trapezoids-i) |
 | [3624-number-of-integers-with-popcount-depth-equal-to-k-ii](https://github.com/priyamkakadiya153/leetcode/tree/master/3624-number-of-integers-with-popcount-depth-equal-to-k-ii) |
+| [3625-count-number-of-trapezoids-ii](https://github.com/priyamkakadiya153/leetcode/tree/master/3625-count-number-of-trapezoids-ii) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/priyamkakadiya153/leetcode/tree/master/3737-count-subarrays-with-majority-element-i) |
 ## Greedy
 |  |
@@ -55,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3621-number-of-integers-with-popcount-depth-equal-to-k-i](https://github.com/priyamkakadiya153/leetcode/tree/master/3621-number-of-integers-with-popcount-depth-equal-to-k-i) |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/priyamkakadiya153/leetcode/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
 | [3623-count-number-of-trapezoids-i](https://github.com/priyamkakadiya153/leetcode/tree/master/3623-count-number-of-trapezoids-i) |
+| [3625-count-number-of-trapezoids-ii](https://github.com/priyamkakadiya153/leetcode/tree/master/3625-count-number-of-trapezoids-ii) |
 ## Recursion
 |  |
 | ------- |
@@ -84,6 +86,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0974-subarray-sums-divisible-by-k](https://github.com/priyamkakadiya153/leetcode/tree/master/0974-subarray-sums-divisible-by-k) |
 | [3591-check-if-any-element-has-prime-frequency](https://github.com/priyamkakadiya153/leetcode/tree/master/3591-check-if-any-element-has-prime-frequency) |
 | [3623-count-number-of-trapezoids-i](https://github.com/priyamkakadiya153/leetcode/tree/master/3623-count-number-of-trapezoids-i) |
+| [3625-count-number-of-trapezoids-ii](https://github.com/priyamkakadiya153/leetcode/tree/master/3625-count-number-of-trapezoids-ii) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/priyamkakadiya153/leetcode/tree/master/3737-count-subarrays-with-majority-element-i) |
 ## Divide and Conquer
 |  |
@@ -218,6 +221,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3623-count-number-of-trapezoids-i](https://github.com/priyamkakadiya153/leetcode/tree/master/3623-count-number-of-trapezoids-i) |
+| [3625-count-number-of-trapezoids-ii](https://github.com/priyamkakadiya153/leetcode/tree/master/3625-count-number-of-trapezoids-ii) |
 ## Binary Indexed Tree
 |  |
 | ------- |
