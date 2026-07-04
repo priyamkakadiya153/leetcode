@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/priyamkakadiya153/leetcode/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 | [3620-network-recovery-pathways](https://github.com/priyamkakadiya153/leetcode/tree/master/3620-network-recovery-pathways) |
 | [3623-count-number-of-trapezoids-i](https://github.com/priyamkakadiya153/leetcode/tree/master/3623-count-number-of-trapezoids-i) |
+| [3624-number-of-integers-with-popcount-depth-equal-to-k-ii](https://github.com/priyamkakadiya153/leetcode/tree/master/3624-number-of-integers-with-popcount-depth-equal-to-k-ii) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/priyamkakadiya153/leetcode/tree/master/3737-count-subarrays-with-majority-element-i) |
 ## Greedy
 |  |
@@ -90,10 +91,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0053-maximum-subarray](https://github.com/priyamkakadiya153/leetcode/tree/master/0053-maximum-subarray) |
 | [0169-majority-element](https://github.com/priyamkakadiya153/leetcode/tree/master/0169-majority-element) |
 | [0912-sort-an-array](https://github.com/priyamkakadiya153/leetcode/tree/master/0912-sort-an-array) |
+| [3624-number-of-integers-with-popcount-depth-equal-to-k-ii](https://github.com/priyamkakadiya153/leetcode/tree/master/3624-number-of-integers-with-popcount-depth-equal-to-k-ii) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/priyamkakadiya153/leetcode/tree/master/3737-count-subarrays-with-majority-element-i) |
 ## Segment Tree
 |  |
 | ------- |
+| [3624-number-of-integers-with-popcount-depth-equal-to-k-ii](https://github.com/priyamkakadiya153/leetcode/tree/master/3624-number-of-integers-with-popcount-depth-equal-to-k-ii) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/priyamkakadiya153/leetcode/tree/master/3737-count-subarrays-with-majority-element-i) |
 ## Merge Sort
 |  |
@@ -215,4 +218,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3623-count-number-of-trapezoids-i](https://github.com/priyamkakadiya153/leetcode/tree/master/3623-count-number-of-trapezoids-i) |
+## Binary Indexed Tree
+|  |
+| ------- |
+| [3624-number-of-integers-with-popcount-depth-equal-to-k-ii](https://github.com/priyamkakadiya153/leetcode/tree/master/3624-number-of-integers-with-popcount-depth-equal-to-k-ii) |
 <!---LeetCode Topics End-->
