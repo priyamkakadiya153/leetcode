@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0240-search-a-2d-matrix-ii](https://github.com/priyamkakadiya153/leetcode/tree/master/0240-search-a-2d-matrix-ii) |
 | [0322-coin-change](https://github.com/priyamkakadiya153/leetcode/tree/master/0322-coin-change) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/priyamkakadiya153/leetcode/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
+| [0410-split-array-largest-sum](https://github.com/priyamkakadiya153/leetcode/tree/master/0410-split-array-largest-sum) |
 | [0496-next-greater-element-i](https://github.com/priyamkakadiya153/leetcode/tree/master/0496-next-greater-element-i) |
 | [0704-binary-search](https://github.com/priyamkakadiya153/leetcode/tree/master/0704-binary-search) |
 | [0773-sliding-puzzle](https://github.com/priyamkakadiya153/leetcode/tree/master/0773-sliding-puzzle) |
@@ -34,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [0410-split-array-largest-sum](https://github.com/priyamkakadiya153/leetcode/tree/master/0410-split-array-largest-sum) |
 | [1383-maximum-performance-of-a-team](https://github.com/priyamkakadiya153/leetcode/tree/master/1383-maximum-performance-of-a-team) |
 | [2966-divide-array-into-arrays-with-max-difference](https://github.com/priyamkakadiya153/leetcode/tree/master/2966-divide-array-into-arrays-with-max-difference) |
 ## Sorting
@@ -72,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0053-maximum-subarray](https://github.com/priyamkakadiya153/leetcode/tree/master/0053-maximum-subarray) |
 | [0322-coin-change](https://github.com/priyamkakadiya153/leetcode/tree/master/0322-coin-change) |
+| [0410-split-array-largest-sum](https://github.com/priyamkakadiya153/leetcode/tree/master/0410-split-array-largest-sum) |
 | [0509-fibonacci-number](https://github.com/priyamkakadiya153/leetcode/tree/master/0509-fibonacci-number) |
 | [0773-sliding-puzzle](https://github.com/priyamkakadiya153/leetcode/tree/master/0773-sliding-puzzle) |
 | [3620-network-recovery-pathways](https://github.com/priyamkakadiya153/leetcode/tree/master/3620-network-recovery-pathways) |
@@ -121,6 +124,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Prefix Sum
 |  |
 | ------- |
+| [0410-split-array-largest-sum](https://github.com/priyamkakadiya153/leetcode/tree/master/0410-split-array-largest-sum) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/priyamkakadiya153/leetcode/tree/master/0974-subarray-sums-divisible-by-k) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/priyamkakadiya153/leetcode/tree/master/3737-count-subarrays-with-majority-element-i) |
 ## Union-Find
@@ -134,6 +138,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0035-search-insert-position](https://github.com/priyamkakadiya153/leetcode/tree/master/0035-search-insert-position) |
 | [0240-search-a-2d-matrix-ii](https://github.com/priyamkakadiya153/leetcode/tree/master/0240-search-a-2d-matrix-ii) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/priyamkakadiya153/leetcode/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
+| [0410-split-array-largest-sum](https://github.com/priyamkakadiya153/leetcode/tree/master/0410-split-array-largest-sum) |
 | [0704-binary-search](https://github.com/priyamkakadiya153/leetcode/tree/master/0704-binary-search) |
 | [0875-koko-eating-bananas](https://github.com/priyamkakadiya153/leetcode/tree/master/0875-koko-eating-bananas) |
 | [3620-network-recovery-pathways](https://github.com/priyamkakadiya153/leetcode/tree/master/3620-network-recovery-pathways) |
