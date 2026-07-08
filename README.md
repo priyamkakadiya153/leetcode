@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1046-last-stone-weight](https://github.com/priyamkakadiya153/leetcode/tree/master/1046-last-stone-weight) |
 | [1383-maximum-performance-of-a-team](https://github.com/priyamkakadiya153/leetcode/tree/master/1383-maximum-performance-of-a-team) |
 | [1552-magnetic-force-between-two-balls](https://github.com/priyamkakadiya153/leetcode/tree/master/1552-magnetic-force-between-two-balls) |
+| [2226-maximum-candies-allocated-to-k-children](https://github.com/priyamkakadiya153/leetcode/tree/master/2226-maximum-candies-allocated-to-k-children) |
 | [2966-divide-array-into-arrays-with-max-difference](https://github.com/priyamkakadiya153/leetcode/tree/master/2966-divide-array-into-arrays-with-max-difference) |
 | [3591-check-if-any-element-has-prime-frequency](https://github.com/priyamkakadiya153/leetcode/tree/master/3591-check-if-any-element-has-prime-frequency) |
 | [3618-split-array-by-prime-indices](https://github.com/priyamkakadiya153/leetcode/tree/master/3618-split-array-by-prime-indices) |
@@ -144,6 +145,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0704-binary-search](https://github.com/priyamkakadiya153/leetcode/tree/master/0704-binary-search) |
 | [0875-koko-eating-bananas](https://github.com/priyamkakadiya153/leetcode/tree/master/0875-koko-eating-bananas) |
 | [1552-magnetic-force-between-two-balls](https://github.com/priyamkakadiya153/leetcode/tree/master/1552-magnetic-force-between-two-balls) |
+| [2226-maximum-candies-allocated-to-k-children](https://github.com/priyamkakadiya153/leetcode/tree/master/2226-maximum-candies-allocated-to-k-children) |
 | [3620-network-recovery-pathways](https://github.com/priyamkakadiya153/leetcode/tree/master/3620-network-recovery-pathways) |
 ## Number Theory
 |  |
