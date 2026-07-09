@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0875-koko-eating-bananas](https://github.com/priyamkakadiya153/leetcode/tree/master/0875-koko-eating-bananas) |
 | [0912-sort-an-array](https://github.com/priyamkakadiya153/leetcode/tree/master/0912-sort-an-array) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/priyamkakadiya153/leetcode/tree/master/0974-subarray-sums-divisible-by-k) |
+| [1011-capacity-to-ship-packages-within-d-days](https://github.com/priyamkakadiya153/leetcode/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1046-last-stone-weight](https://github.com/priyamkakadiya153/leetcode/tree/master/1046-last-stone-weight) |
 | [1383-maximum-performance-of-a-team](https://github.com/priyamkakadiya153/leetcode/tree/master/1383-maximum-performance-of-a-team) |
 | [1552-magnetic-force-between-two-balls](https://github.com/priyamkakadiya153/leetcode/tree/master/1552-magnetic-force-between-two-balls) |
@@ -144,6 +145,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0410-split-array-largest-sum](https://github.com/priyamkakadiya153/leetcode/tree/master/0410-split-array-largest-sum) |
 | [0704-binary-search](https://github.com/priyamkakadiya153/leetcode/tree/master/0704-binary-search) |
 | [0875-koko-eating-bananas](https://github.com/priyamkakadiya153/leetcode/tree/master/0875-koko-eating-bananas) |
+| [1011-capacity-to-ship-packages-within-d-days](https://github.com/priyamkakadiya153/leetcode/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1552-magnetic-force-between-two-balls](https://github.com/priyamkakadiya153/leetcode/tree/master/1552-magnetic-force-between-two-balls) |
 | [2226-maximum-candies-allocated-to-k-children](https://github.com/priyamkakadiya153/leetcode/tree/master/2226-maximum-candies-allocated-to-k-children) |
 | [3620-network-recovery-pathways](https://github.com/priyamkakadiya153/leetcode/tree/master/3620-network-recovery-pathways) |
